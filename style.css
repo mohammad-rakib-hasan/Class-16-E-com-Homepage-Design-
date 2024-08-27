@@ -1,0 +1,114 @@
+.body{
+    background-image: linear-gradient(to right, #31B0E3, #E117FB) ;
+}
+
+.custom{
+    background-color: #91DDCF;
+}
+.custom-2{
+    background-color: #ffffff;
+    height: 700px;
+    width: 600px;
+    margin: auto;
+    border: 2px solid rgb(145, 116, 224);
+    box-sizing: border-box;
+    margin-top: 35Px;
+    border-radius: 20px;
+}
+.custom-3{
+    background-color: #D1E9F6;
+
+}
+.custom-4{
+       background-color: #D9ABAB;
+
+}
+.text-color{
+    color: #405D72;
+    font-size: 20px;
+}
+
+
+.title{
+    margin-top: 130px;
+    margin-left: 225px;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+font-size: 28px;
+color: #E117FB;
+}
+
+.title-2{
+    margin-left: 205px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 22px;
+    margin-top: 20px;
+
+}
+.cheekbox{
+    margin-top: 20px;
+    margin-left: 40px;
+}
+
+.In{
+    box-sizing: border-box;
+    margin-top: 50px;
+    margin-left: 115px;
+    width: 380px;
+    padding: 13px;
+    background-image: linear-gradient(to right,#49CAE5,#72B5E7,#EA3CFB);
+    color: aliceblue;
+    border: #ffffff;
+    border-radius: 10px;
+}
+
+.form-control{
+    width: 87%;
+    margin-left: 40px;
+    padding: 10px;
+    border-radius: 10px;
+    box-sizing: border-box;
+    margin-top: 80px;
+}
+.form-control2{
+    width: 87%;
+    margin-left: 40px;
+    padding:10px;
+    border-radius: 10px;
+    box-sizing: border-box;
+    margin-top: 30px;
+}
+.footer{
+    height: 400px;
+    background-image: linear-gradient(to top,#37B7C3, #1A3636);
+    
+    margin-top: 20px;   
+}
+.footer-2{
+    width: 33%;
+    float: left;
+    margin-top: 10px;
+    color: antiquewhite;
+}
+
+.link{
+    text-decoration: none;
+    margin-top: 3px;
+}
+
+.footer-1{
+    height: 400px;
+    background-image: linear-gradient(to top, #D9ABAB,#921A40);
+    
+    margin-top: 20px;
+    
+}
+.footer-3{
+    width: 33%;
+    float: left;
+    margin-top: 10px;
+    color: antiquewhite;
+}
+.link-1{
+    text-decoration: none;
+    margin-top: 3px;
+}
